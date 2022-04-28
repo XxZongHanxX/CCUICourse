@@ -1,2 +1,2 @@
 # CCUICourse
-CCUI課程資訊
+爬中正大學課程資料
